@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Madhava04A
 - 👀 I’m interested in WEB DEVELOPMENT
-- 🌱 I’m currently learning reactjs
+- 🌱 I’m currently building projects using reactjs
 - 💞️ I’m looking to collaborate on frontend development
 - 📫 How to reach me ...  madhavaathreya@gmail.com
 
